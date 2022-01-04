@@ -22,6 +22,9 @@
     color: var(--text-color-primry);
 }
 
+#btn-burger {
+    color: var(--text-color-primry);
+}
 .container-nav .fa-bars {
     color: #000;
 }
