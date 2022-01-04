@@ -176,7 +176,6 @@
     color: var(--text-color-primry);
     position: relative;
 }
-
 .cta::before  {
     content:'';
 	position: absolute;
@@ -186,20 +185,17 @@
 	right: 0;
 	background-color: rgba(0,0,0,0.6);
 }
-
 .cta h3 {
     position: relative;
     font-size: 2vw;
     line-height: 5.vw;
     font-weight: 400;
 }
-
 .cta p {
     position: relative;
     font-size: 16px;
     margin: 10px 0;
 }
-
 .cta-btn {
     position: relative;
     background: #ff5361;
@@ -220,17 +216,14 @@
     margin-bottom: 30px;
 
 }
-
 .stories div img {
     width: 100%;
     border-radius: 10%;
 }
-
 .stories div {
     position: relative;
     text-align: center;
 }
-
 .stories p {
     width: 80%;
     position: absolute;
@@ -240,7 +233,6 @@
     font-size: 22px;
     color: var(--text-color-primry);
 }
-
 .start-btn {
     width: 80%;
     display: block;
@@ -254,15 +246,12 @@
     border-radius: 30px;
     font-size: 20px;
 }
-
 .about-msg {
     text-align: center; 
 }
-
 .about-msg h2 {
     margin-bottom: 20px;  
 }
-
 .about-msg p {
     font-weight: 400;
 }
@@ -273,14 +262,12 @@
     margin: 80px 0 10px;
     text-align: center;
 }
-
 .footer a {
     text-decoration: none;
     color: #999;
     font-size: 24px;
     margin: 0 10px;
 }
-
 .footer hr {
     background: #999;
     height: 1px;
@@ -288,15 +275,12 @@
     border:  0;
     margin: 20px 0;
 }
-
 .footer p {
     padding-bottom: 15px;
 }
-
 .active {
     position: relative;
 }
-
 .active::after {
     content: '';
     background: var(--text-color-primry);
@@ -308,7 +292,6 @@
     bottom: -12px;
     border-radius: 2px;
 }
-
 .container-nav .fa-bars {
     display: none;
 }
@@ -334,17 +317,14 @@
         overflow: hidden;
         transition: all ease 0.5s;
     }
-
     .menu {
         flex-direction: column;
         align-items: flex-end;
     }
-
     .container-nav .menu li {
         margin: 10px 0;
         display: block;
     }
-
     .container-nav .fa-bars {
         display: block;
         position: fixed;
@@ -353,28 +333,23 @@
         color: var(--text-color-primry);
         font-size: 28px;
     }
-
     .register {
         margin: 15px;
         display: inline-block;
     }
-
     .active::after {
         left: -40px;
         transform: translate(0, 50%);
         bottom: 50%;
     }
-
     .hidemenu {
         max-height: 300px;
         transition: all ease 0.5s;
     }
-
     .header h1 {
         padding-top: 120px;
         font-size: 7vw;
     }
-
     .search-bar {
         width: 90%;
         margin: 15px auto;
@@ -382,11 +357,9 @@
         border-radius: 5px;
         position: relative;
     }
-
     .search-bar form {
         display: block;
     }
-
     .search-bar form input {
         border-bottom: 1px solid #ddd;
         width: 100%;
@@ -394,31 +367,25 @@
         margin-top: 10px;
         padding-bottom: 10px;
     }
-
     .search-bar form button {
         position: absolute;
         bottom: 0;
         left: 50%;
         transform: translate(-50%, 50%);
     }
-
     .sub-title {
         font-size: 6vw;
     }
-
     .cta {
         padding: 15% 5%;
     }
-
     .cta h3 {
         font-size: 7vw;
         line-height: 8vw;
     }
-
     .cta p {
         font-size: 14px;
     }
-
     .cta-btn {
         padding: 6px 15px;
         border-radius: 4px;
@@ -428,9 +395,7 @@
     .stories p {
         font-size: 22px;
     }
-
     .about-msg {
         font-size: 15px;
     }
-
 }
