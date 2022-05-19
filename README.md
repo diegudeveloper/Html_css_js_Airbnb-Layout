@@ -12,7 +12,7 @@
 ## Bienvenido! 👋
 
 
-[Clone Airbnby](https://diegudeveloper.github.io/Html_css_js_Travel_Agency/) es parte de mi portafolio de proyectos con un nivel un poco más profesional, al igual que otros, es el resultado de mis habilidades adquiridas en los diferentes cursos tomados en distintas plataformas online, que con el pasar del tiempo entre lecturas, ejercicios y práctica voy afianzando mis habilidades y conocimientos. 
+[Clone Airbnby](https://diegudeveloper.github.io/Html_css_js_Airbnb-Layout/) es parte de mi portafolio de proyectos con un nivel un poco más profesional, al igual que otros, es el resultado de mis habilidades adquiridas en los diferentes cursos tomados en distintas plataformas online, que con el pasar del tiempo entre lecturas, ejercicios y práctica voy afianzando mis habilidades y conocimientos. 
 
 Este proyecto se basa principalmente en su maquetación, se usó en primera instancia el módulo de Flexbox combinado con Grid en Css y el diseño fue seleccionado del canal de Youtube: Online Tutorials.
 
@@ -35,7 +35,7 @@ Este proyecto se basa principalmente en su maquetación, se usó en primera inst
 ## Welcome! 👋
 
 
-[Clone Airbnb](https://diegudeveloper.github.io/Html_css_js_Travel_Agency/) is part of my portfolio of projects with a little more professional level, like others, is the result of my skills acquired in different courses taken in different online platforms, with the passage of time between readings, exercises and practice I strengthen my skills and knowledge. 
+[Clone Airbnb](https://diegudeveloper.github.io/Html_css_js_Airbnb-Layout/) is part of my portfolio of projects with a little more professional level, like others, is the result of my skills acquired in different courses taken in different online platforms, with the passage of time between readings, exercises and practice I strengthen my skills and knowledge. 
 
 This project is mainly based on its layout, it was used in first instance the Flexbox module combined with Grid in Css and the design was selected from the Youtube channel: Tutorials Online.
 
