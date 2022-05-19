@@ -9,6 +9,13 @@
 
 </details>
 
+<details>
+    <summary>📱 Imagen Modo Movil</summary>
+
+![diegudeveloper github io_Html_css_js_Airbnb-Layout_movil](https://user-images.githubusercontent.com/62949966/169298366-57873a91-57c4-4afd-8ed5-f85544d8fb47.png)
+
+</details>
+
 ## Bienvenido! 👋
 
 
@@ -29,6 +36,13 @@ Este proyecto se basa principalmente en su maquetación, se usó en primera inst
     <summary>🖥 Pc Mode image</summary>
 
 ![diegudeveloper github io_Html_css_js_Airbnb-Layout_](https://user-images.githubusercontent.com/62949966/169253909-df048837-c8ac-40aa-a5f5-dafe8116543f.png)
+
+</details>
+
+<details>
+    <summary>📱 Mobile Mode Image</summary>
+
+![diegudeveloper github io_Html_css_js_Airbnb-Layout_movil](https://user-images.githubusercontent.com/62949966/169298366-57873a91-57c4-4afd-8ed5-f85544d8fb47.png)
 
 </details>
 
